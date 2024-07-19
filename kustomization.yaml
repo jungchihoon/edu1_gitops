@@ -5,4 +5,5 @@ resources:
 - service.yaml
 images:
 - name: chihoonregistry.azurecr.io/jungchihoon/edu3
+  newTag: "master"
   
