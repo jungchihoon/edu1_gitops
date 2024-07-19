@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: edu1
-        image: icishub.azurecr.io/shclub/edu1
+        image: chihoonregistry.azurecr.io/jungchihoon/edu3
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
